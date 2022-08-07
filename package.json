@@ -1,0 +1,25 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazellepearce/employeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazellepearce/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/jazellepearce/employeeTracker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquirer": "^9.1.0",
+    "mysql2": "^2.3.3"
+  }
+}
